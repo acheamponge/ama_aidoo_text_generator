@@ -1,0 +1,14 @@
+numpy
+Pillow
+keras
+tensorflow-cpu
+streamlit
+
+
+
+
+
+
+
+
+
